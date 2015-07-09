@@ -18,7 +18,7 @@
 # MA 02111-1307 USA
 #
 
-CROSS_COMPILE ?= or32-elf-
+CROSS_COMPILE ?= or1k-elf-
 
 # r10 used for global object pointer, already set in OR32 GCC but just to be
 # clear

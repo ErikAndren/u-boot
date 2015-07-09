@@ -142,7 +142,7 @@ x86: i386
 blackfin: bfin
 sh: sh4
 nds32: nds32le
-openrisc: or32
+openrisc: or1k
 
 
 This selects the available toolchain paths. Add the base directory for
